@@ -1,0 +1,6 @@
+{
+  "name": "Vaishali Makeover",
+  "description": "A luxury beauty salon and makeover application specialized in bridal makeup, beauty treatments, and styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
